@@ -1,43 +1,43 @@
 # Leetcode-clone-
 
 # Table of Contents
-Features
+1 Features
 
-Technologies Used
+2 Technologies Used
 
-Getting Started
+3 Getting Started
 
-Installation
+4 Installation
 
-Usage
+5 Usage
 
-Contributing
+6 Contributing
 
-License
+7 License
 
-Acknowledgements
+8 Acknowledgements
 
 # Features
-Problem Set: Access a wide range of coding problems covering various topics such as algorithms, data structures, and more.
+1 Problem Set: Access a wide range of coding problems covering various topics such as algorithms, data structures, and more.
 
-User Authentication: Sign up for an account or log in with existing credentials to track your progress and save your submissions.
+2 User Authentication: Sign up for an account or log in with existing credentials to track your progress and save your submissions.
 
-Submission History: View your submission history and track your performance over time.
+3 Submission History: View your submission history and track your performance over time.
 
-Real-Time Judge: Submit your code solutions and receive instant feedback on correctness and efficiency.
+4 Real-Time Judge: Submit your code solutions and receive instant feedback on correctness and efficiency.
 
-Discussion Forum: Engage with a community of developers, ask questions, and share insights on problem-solving strategies.
+5 Discussion Forum: Engage with a community of developers, ask questions, and share insights on problem-solving strategies.
 
 # Technologies Used
-Frontend: React.js, HTML, CSS
+1 Frontend: React.js, HTML, CSS
 
-Backend: Node.js, Express.js
+2 Backend: Node.js, Express.js
 
-Authentication: JSON Web Tokens (JWT)
+3 Authentication: JSON Web Tokens (JWT)
 
-API: RESTful API architecture
+4 API: RESTful API architecture
 
-Version Control: Git, GitHub
+5 Version Control: Git, GitHub
 
 # Getting Started
 To run this project locally, follow these steps:
